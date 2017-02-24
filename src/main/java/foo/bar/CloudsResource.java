@@ -17,7 +17,7 @@ public class CloudsResource {
     
     @GET
     public String helloWorld() {
-        return "Hello World Updated " + System.currentTimeMillis();
+        return "Hello World Update " + System.currentTimeMillis();
     }
              
 }
